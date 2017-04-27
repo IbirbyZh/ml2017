@@ -1,0 +1,9 @@
+Final results:
+  test accuracy:		92.42 %
+Нужно больше магии!
+Final results:
+  test accuracy:		92.37 %
+Нужно больше магии!
+Final results:
+  test accuracy:		93.04 %
+Achievement unlocked: колдун 80 уровня
